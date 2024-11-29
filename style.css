@@ -1,5 +1,5 @@
 body {
-    background: blue;
+    background: rgb(0, 0, 5);
     color : white;
 }
 
@@ -7,5 +7,18 @@ header{
     border: outset 6px rgb rgb(80, 1, 90);
     font-size: 36;
     padding: 20px;
-    color: rgb(90, 1, 16)
+    color: rgb(90, 1, 71)
+}
+
+section{
+    background:rgb(71, 35, 199);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+  .chamada-texto {
+    margin-right: 5%;
 }
